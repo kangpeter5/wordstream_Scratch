@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ad1",
+				"ad1_details"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ine",
+				"inline"
+			],
+			[
+				"main",
+				"main_content_head"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"img",
+				"imgtxt"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"styl",
+				"font-style"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"paddg",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"m",
+				"menu"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/kbe55/Desktop/GitHub/kangpeter5/basic_repo.git/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kbe55/Desktop/coding_dojo/CSS Prac/CSS Assignment 4/wordstream.html",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 4/wordstream.css",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 4/wordstream.html",
+		"/C/Users/kbe55/Desktop/coding dojo/Terminal_Git/Assignment_3/commands.txt",
+		"/C/Users/kbe55/Desktop/coding dojo/Terminal_Git/Assignment_3/index.html",
+		"/C/Users/kbe55/Desktop/coding dojo/Terminal_Git/Assignment_3/style.css",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 3/PPC.html",
+		"/C/Users/kbe55/Desktop/coding dojo/Terminal_Git/Assignment_3/rocklee.jpeg",
+		"/C/Users/kbe55/Desktop/coding_dojo/Terminal_Git/Assignment_3/index.html",
+		"/C/Users/kbe55/Desktop/coding dojo/Terminal_Git/Assignment 3/style.css",
+		"/C/Users/kbe55/Desktop/coding dojo/Terminal_Git/Assignment 3/index.html",
+		"/C/Users/kbe55/Desktop/coding dojo/Terminal_Git/git_test/index.html",
+		"/C/Users/kbe55/Desktop/git_test/style.css",
+		"/C/Users/kbe55/Desktop/git_test/index.html",
+		"/C/wamp/www/coding dojo/HTML Prac/PeteKang_Blog.html",
+		"/C/wamp/www/coding dojo/HTML Prac/hello_world.html",
+		"/C/Users/kbe55/Desktop/branching_test/index.html",
+		"/C/Users/kbe55/Desktop/test/index.html",
+		"/C/Users/kbe55/Desktop/test/styles.css",
+		"/C/wamp/www/coding dojo/Terminal_Git/Assignment 2/commands.txt",
+		"/C/wamp/www/coding dojo/Terminal_Git/index.html",
+		"/C/wamp/www/coding dojo/CSS Prac/CSS Assignment 4/wordstream.html",
+		"/C/Users/kbe55/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/coding dojo/Terminal_Git/commands.txt",
+		"/C/wamp/www/coding dojo/CSS Prac/CSS_assignment_2_PeteKang/css2.html",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 3/PPC.css",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 2/FREEBSD project complete/FreeBSDPro.html",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/Optional 1/Shapes.html",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 4/Shapes.css",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 2/FREEBSD project complete/FreeBSDPro.css",
+		"/C/Users/kbe55/Desktop/coding dojo/CSS Prac/CSS Assignment 2/FreeBSD.css",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00087.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00189.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00047.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00049.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00050.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00052.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00053.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00054.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00055.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00056.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00057.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00058.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00059.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00060.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00061.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00062.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00063.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00064.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00065.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00066.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00067.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00068.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00069.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00070.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00071.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00072.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00073.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00074.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00075.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00076.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00077.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00078.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00079.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00080.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00081.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00082.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00083.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00084.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00085.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00086.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00088.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00089.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00090.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00091.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00092.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00093.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00094.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00095.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00096.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00097.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00098.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00099.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00100.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00101.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00102.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00103.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00104.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00105.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00106.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00107.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00108.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00109.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00110.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00111.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00112.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00113.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00114.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00115.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00116.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00117.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00118.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00119.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00120.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00121.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00122.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00123.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00124.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00125.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00126.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00127.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00128.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00129.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00130.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00131.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00132.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00133.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00134.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00135.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00136.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00137.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00138.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00139.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00140.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00141.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00142.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00143.MTS",
+		"/C/Users/kbe55/Desktop/This BBQ Saved My Life 2015/00144.MTS"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			";\n",
+			"%;\n",
+			"block",
+			"menu",
+			"800000",
+			";\n",
+			"8B0000",
+			"red",
+			"body",
+			"hr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"navbar",
+			"red",
+			"800000",
+			"8B0000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/kbe55/Desktop/GitHub/kangpeter5/basic_repo.git/index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
